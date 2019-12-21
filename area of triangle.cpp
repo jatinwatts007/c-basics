@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 #include<iostream.h>
+#include<bits/stdc++.h>
 class area
 {
 	private:
