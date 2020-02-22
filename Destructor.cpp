@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 #include<iostream.h>
+
 class example
 {
 	private:
@@ -15,9 +16,11 @@ void fun()
 {
 	example e;
 }
-void main()
+int main()
 {
 	clrscr();
 	fun();
 	getch();
+        
+        return 0;
 }
