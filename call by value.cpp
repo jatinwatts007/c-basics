@@ -1,3 +1,4 @@
+#include<Studio.h>
 #include<iostream>
 using namespace std;
 display(int x)  //function definition
