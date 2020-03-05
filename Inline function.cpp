@@ -9,5 +9,5 @@ inline void sum()  //definition
 }
 main()
 {
-sum();   //call
+sum();   
 }
