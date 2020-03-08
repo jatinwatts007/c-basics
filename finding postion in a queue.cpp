@@ -11,6 +11,4 @@
          }
          cout<<m/2<<endl;
      }
-	//code
-	return 0;
 }
