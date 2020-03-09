@@ -15,6 +15,6 @@ sum(int x,double y)
 main()
 {
 	sum(1.345,6.756);
-	sum(5,4.8);         //function call
+	sum(5,4.8);         
 	sum(4,6);
 }
