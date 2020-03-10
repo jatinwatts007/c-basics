@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int main()
+main()
  {
      int i,j,k,n,t,l;
      cin>>t;
@@ -44,5 +44,4 @@ int main()
          cout<<endl;
      }
 	//code
-	return 0;
 }
