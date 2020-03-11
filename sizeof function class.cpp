@@ -4,7 +4,7 @@ class A
 {
 int x;
 	}a1;
-	main()
+	void main()
 	{
 cout<<"size of class A is:"<<sizeof(a1);
 cout<<"address of the object is:"<<&a1<<endl;
