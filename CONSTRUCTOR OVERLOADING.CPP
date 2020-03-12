@@ -45,5 +45,5 @@ void main()
 	e3.show_data();
 	cout<<"data with object in constructor\n";
 	e4.show_data();
-	getch();
+	
 }
