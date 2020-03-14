@@ -7,7 +7,7 @@ inline void sum()  //definition
 	cin>>x>>y;
 	cout<<"addition is :"<<x+y;
 }
-main()
+Void main()
 {
 sum();   
 }
