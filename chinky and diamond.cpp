@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int main()
+main()
  {
      int i,j,k,t,n,x;
      cin>>t;
@@ -31,6 +31,5 @@ int main()
          delete [] arr;
      }
 	//code
-	return 0;
 }
 	
