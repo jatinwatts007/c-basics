@@ -1,4 +1,4 @@
-#include<stdio.h>
+Gg#include<stdio.h>
 #include<conio.h>
 #include<iostream.h>
 class example
