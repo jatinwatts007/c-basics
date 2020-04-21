@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-class A
+class AB
 {
 int *p;
 public: void input()
@@ -25,7 +25,7 @@ cout<<p[0]<<ends<<p[1]<<endl;
 };
 main()
 {
-A a;
+AB a;
 a.input();
 a.output();
 a.freestorage();
